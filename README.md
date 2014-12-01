@@ -1,4 +1,4 @@
 BasicAPIs
 =========
 
-Basic api in c
+Basic APIs Collection

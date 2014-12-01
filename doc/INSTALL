@@ -1,0 +1,8 @@
+1 Get source code
+    https://github.com/djstava/BasicAPIs.git
+
+2 Compilation
+    make
+    
+3 Cleanup
+    make clean

@@ -1,0 +1,4 @@
+1 libcurl
+    based on libcurl.7.31.0
+    ./configure
+    make
